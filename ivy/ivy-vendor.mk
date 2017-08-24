@@ -652,6 +652,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/ivy/proprietary/vendor/lib64/libmmcamera2_stats_algorithm.so:system/vendor/lib64/libmmcamera2_stats_algorithm.so \
     vendor/sony/ivy/proprietary/vendor/lib64/libnetmgr.so:system/vendor/lib64/libnetmgr.so \
     vendor/sony/ivy/proprietary/vendor/lib64/libperipheral_client.so:system/vendor/lib64/libperipheral_client.so \
+    vendor/sony/ivy/proprietary/vendor/lib64/libprotobuf-cpp-N.so:system/vendor/lib64/libprotobuf-cpp-N.so \
     vendor/sony/ivy/proprietary/vendor/lib64/libqcci_legacy.so:system/vendor/lib64/libqcci_legacy.so \
     vendor/sony/ivy/proprietary/vendor/lib64/libqdi.so:system/vendor/lib64/libqdi.so \
     vendor/sony/ivy/proprietary/vendor/lib64/libqdp.so:system/vendor/lib64/libqdp.so \
