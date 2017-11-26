@@ -222,44 +222,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/ivy/proprietary/vendor/camera/SEM05BN0/scene_detector.dat:system/vendor/camera/SEM05BN0/scene_detector.dat \
     vendor/sony/ivy/proprietary/vendor/camera/SEM05BN0/snapshot_ctrl.dat:system/vendor/camera/SEM05BN0/snapshot_ctrl.dat \
     vendor/sony/ivy/proprietary/vendor/camera/SEM05BN0_IMX241.dat:system/vendor/camera/SEM05BN0_IMX241.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS0_BU64296GWX.dat:system/vendor/camera/SOI20BS0_BU64296GWX.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS0_IMX200.dat:system/vendor/camera/SOI20BS0_IMX200.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/color_ctrl.dat:system/vendor/camera/SOI20BS1/color_ctrl.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/dataflow.dat:system/vendor/camera/SOI20BS1/dataflow.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/debug_mgr.dat:system/vendor/camera/SOI20BS1/debug_mgr.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/exposure_ctrl.dat:system/vendor/camera/SOI20BS1/exposure_ctrl.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/exposure_ctrl_diagram.dat:system/vendor/camera/SOI20BS1/exposure_ctrl_diagram.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/exposure_ctrl_gamma.dat:system/vendor/camera/SOI20BS1/exposure_ctrl_gamma.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/face_detector.dat:system/vendor/camera/SOI20BS1/face_detector.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/flicker_detector.dat:system/vendor/camera/SOI20BS1/flicker_detector.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/focus_stats_conv.dat:system/vendor/camera/SOI20BS1/focus_stats_conv.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/food_comp_yummy.dat:system/vendor/camera/SOI20BS1/food_comp_yummy.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/food_detector.dat:system/vendor/camera/SOI20BS1/food_detector.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/hal_ctrl.dat:system/vendor/camera/SOI20BS1/hal_ctrl.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/hal_ctrl_platform.dat:system/vendor/camera/SOI20BS1/hal_ctrl_platform.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/hal_ctrl_platform_abf.dat:system/vendor/camera/SOI20BS1/hal_ctrl_platform_abf.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/hal_ctrl_platform_asf_lin.dat:system/vendor/camera/SOI20BS1/hal_ctrl_platform_asf_lin.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/hal_ctrl_platform_asf_stp.dat:system/vendor/camera/SOI20BS1/hal_ctrl_platform_asf_stp.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/hal_ctrl_platform_gic.dat:system/vendor/camera/SOI20BS1/hal_ctrl_platform_gic.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/hdr_comp.dat:system/vendor/camera/SOI20BS1/hdr_comp.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/idt_ctrl.dat:system/vendor/camera/SOI20BS1/idt_ctrl.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/image_conv.dat:system/vendor/camera/SOI20BS1/image_conv.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/image_conv_canele.dat:system/vendor/camera/SOI20BS1/image_conv_canele.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/image_conv_marble.dat:system/vendor/camera/SOI20BS1/image_conv_marble.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/image_conv_raisin.dat:system/vendor/camera/SOI20BS1/image_conv_raisin.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/image_conv_spica.dat:system/vendor/camera/SOI20BS1/image_conv_spica.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/jpeg_enc.dat:system/vendor/camera/SOI20BS1/jpeg_enc.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/lens_ctrl.dat:system/vendor/camera/SOI20BS1/lens_ctrl.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/motion_estimation.dat:system/vendor/camera/SOI20BS1/motion_estimation.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/multiframe_nr.dat:system/vendor/camera/SOI20BS1/multiframe_nr.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/multiframe_nr_melonpan.dat:system/vendor/camera/SOI20BS1/multiframe_nr_melonpan.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/multiframe_nr_mugichoco.dat:system/vendor/camera/SOI20BS1/multiframe_nr_mugichoco.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/multiframe_nr_toppo.dat:system/vendor/camera/SOI20BS1/multiframe_nr_toppo.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/object_tracker.dat:system/vendor/camera/SOI20BS1/object_tracker.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/scene_detector.dat:system/vendor/camera/SOI20BS1/scene_detector.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1/snapshot_ctrl.dat:system/vendor/camera/SOI20BS1/snapshot_ctrl.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1_BU64296GWX.dat:system/vendor/camera/SOI20BS1_BU64296GWX.dat \
-    vendor/sony/ivy/proprietary/vendor/camera/SOI20BS1_IMX200.dat:system/vendor/camera/SOI20BS1_IMX200.dat \
     vendor/sony/ivy/proprietary/vendor/camera/default.dat:system/vendor/camera/default.dat \
     vendor/sony/ivy/proprietary/vendor/camera/flash.dat:system/vendor/camera/flash.dat \
     vendor/sony/ivy/proprietary/vendor/camera/snapshot.dat:system/vendor/camera/snapshot.dat \
