@@ -127,7 +127,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/ivy/proprietary/lib64/libsuntory_utils.so:system/lib64/libsuntory_utils.so \
     vendor/sony/ivy/proprietary/lib64/libtee.so:system/lib64/libtee.so \
     vendor/sony/ivy/proprietary/lib64/libtpm.so:system/lib64/libtpm.so \
-    vendor/sony/ivy/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/sony/ivy/proprietary/vendor/camera/LGI05BN0/color_ctrl.dat:system/vendor/camera/LGI05BN0/color_ctrl.dat \
     vendor/sony/ivy/proprietary/vendor/camera/LGI05BN0/dataflow.dat:system/vendor/camera/LGI05BN0/dataflow.dat \
     vendor/sony/ivy/proprietary/vendor/camera/LGI05BN0/debug_mgr.dat:system/vendor/camera/LGI05BN0/debug_mgr.dat \
@@ -389,7 +388,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/ivy/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
     vendor/sony/ivy/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
     vendor/sony/ivy/proprietary/vendor/lib/libsubsystem_control.so:system/vendor/lib/libsubsystem_control.so \
-    vendor/sony/ivy/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/sony/ivy/proprietary/vendor/lib/libvendorconn.so:system/vendor/lib/libvendorconn.so \
     vendor/sony/ivy/proprietary/vendor/lib/libwqe.so:system/vendor/lib/libwqe.so \
     vendor/sony/ivy/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
@@ -446,8 +444,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/ivy/proprietary/vendor/lib64/libssd.so:system/vendor/lib64/libssd.so \
     vendor/sony/ivy/proprietary/vendor/lib64/libsubsystem_control.so:system/vendor/lib64/libsubsystem_control.so \
     vendor/sony/ivy/proprietary/vendor/lib64/libsystem_health_mon.so:system/vendor/lib64/libsystem_health_mon.so \
-    vendor/sony/ivy/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
-    vendor/sony/ivy/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
     vendor/sony/ivy/proprietary/vendor/lib64/libvendorconn.so:system/vendor/lib64/libvendorconn.so \
     vendor/sony/ivy/proprietary/vendor/lib64/libwqe.so:system/vendor/lib64/libwqe.so \
     vendor/sony/ivy/proprietary/vendor/lib64/libxml.so:system/vendor/lib64/libxml.so \
